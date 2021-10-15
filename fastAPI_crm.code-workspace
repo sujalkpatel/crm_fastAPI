@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true,
+		// "html.suggest.html5": true,
+		// "html.format.enable": true,
+		// "html.validate.scripts": true,
+		// "html.validate.styles": true,
+		"python.linting.pycodestyleEnabled": true,
+		"python.linting.pylintPath": "/home/sujal/.local/share/virtualenvs/crm_fastAPI-RxKuaZp6/bin/pylint",
+		"python.linting.pylintArgs": [
+			"--load-plugins",
+			"pylint_django"
+		],
+		"python.linting.pylintEnabled": true,
+		"python.venvPath": "/home/sujal/.local/share/virtualenvs/crm_fastAPI-RxKuaZp6/bin",
+		"python.linting.pycodestyleArgs": [
+			"--ignore=E501, E221, W504"
+		],
+		"python.pythonPath": "/home/sujal/.local/share/virtualenvs/crm_fastAPI-RxKuaZp6/bin/python"
+	}
+}
